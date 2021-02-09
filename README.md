@@ -5,8 +5,6 @@
 
 **💼 Currently working looking for work**
 
-**👨🏻‍💻 Currently working on:** 
-
 ![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jurdunnn&show_icons=true&line_height=30)
 
 - 🔭 I’m currently working on - **Pokemon database app**
