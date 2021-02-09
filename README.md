@@ -9,11 +9,9 @@
 
 ![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jurdunnn&show_icons=true&line_height=30)
 
-🌱 Learning all about **Open Source**
-
-- 🔭 I’m currently working on - Pokemon database app
-- 🌱 I’m currently learning - all things linux
-- 👯 I’m looking to collaborate on - android projects
+- 🔭 I’m currently working on - **Pokemon database app
+- 🌱 I’m currently learning - **all things linux
+- 👯 I’m looking to collaborate on - **android projects
 
 **💻 Technologies**
 
