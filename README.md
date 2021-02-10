@@ -11,21 +11,21 @@
 - 🌱 I’m currently learning - **all things linux**
 - 👯 I’m looking to collaborate on - **android projects**
 
-**💻 Technologies**
+**💻 IDE's of choice**
 <table>
   <tbody style="font-weight bold">
     <tr valign="top">
       <td width="25%" align="center">
         <span>VS Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
         <span>Android Studio</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img height="64px" src="https://github.com/jurdunnn/jurdunnn/blob/main/androidstudiologo.png">
       </td>
       <td width="25%" align="center">
         <span>InelliJ</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="64px" src="https://github.com/jurdunnn/jurdunnn/blob/main/intellij.png">
       </td>
     </tr>
   </tbody>
@@ -33,42 +33,51 @@
 
 <br>
 
+**💻 Primary languages**
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>**EMPTY**</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+        <span><b>Java 8</b></span><br><br><br>
+        <img height="64px" src="">
       </td>
       <td width="25%" align="center">
-        <span>**EMPTY**</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <span>Kotlin</span><br><br><br>
+        <img height="64px" src="">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>Dart</span><br><br><br>
+        <img height="64px" src="">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>Flutter</span><br><br><br>
+        <img height="64px" src="">
       </td>
     </tr>
+  </tbody>
+</table>
+
+<br>
+
+**💻 Secondary Languages**
+<table>
+  <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>**EMPTY**</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
+        <span>HTML5</span><br><br><br>
+        <img height="64px" src="">
       </td>
       <td width="25%" align="center">
-        <span>**EMPTY**</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>**EMPTY**</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>**EMPTY**</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+        <span>Bash</span><br><br><br>
+        <img height="64px" src="">
       </td>
     </tr>
   </tbody>
