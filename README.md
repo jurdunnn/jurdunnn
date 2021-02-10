@@ -16,15 +16,15 @@
   <tbody style="font-weight bold">
     <tr valign="top">
       <td width="25%" align="center">
-        <span>VS Code</span><br><br><br>
+        <span><b>VS Code<b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <span>Android Studio</span><br><br><br>
+        <span><b>Android Studio<b></span><br><br><br>
         <img height="64px" src="https://github.com/jurdunnn/jurdunnn/blob/main/androidstudiologo.png">
       </td>
       <td width="25%" align="center">
-        <span>InelliJ</span><br><br><br>
+        <span><b>InelliJ<b></span><br><br><br>
         <img height="64px" src="https://github.com/jurdunnn/jurdunnn/blob/main/intellij.png">
       </td>
     </tr>
@@ -39,19 +39,19 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span><b>Java 8</b></span><br><br><br>
-        <img height="64px" src="">
+        <img height="64px" src="https://github.com/jurdunnn/jurdunnn/blob/main/java8.png">
       </td>
       <td width="25%" align="center">
-        <span>Kotlin</span><br><br><br>
-        <img height="64px" src="">
+        <span><b>Kotlin<b></span><br><br><br>
+        <img height="64px" src="https://github.com/jurdunnn/jurdunnn/blob/main/kotlin.png">
       </td>
       <td width="25%" align="center">
-        <span>Dart</span><br><br><br>
-        <img height="64px" src="">
+        <span><b>Dart<b></span><br><br><br>
+        <img height="64px" src="https://github.com/jurdunnn/jurdunnn/blob/main/dart.png">
       </td>
       <td width="25%" align="center">
-        <span>Flutter</span><br><br><br>
-        <img height="64px" src="">
+        <span><b>Flutter<b></span><br><br><br>
+        <img height="64px" src="https://github.com/jurdunnn/jurdunnn/blob/main/flutter.png">
       </td>
     </tr>
   </tbody>
@@ -64,20 +64,20 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>HTML5</span><br><br><br>
-        <img height="64px" src="">
+        <span><b>HTML5<b></span><br><br><br>
+        <img height="64px" src="https://github.com/jurdunnn/jurdunnn/blob/main/html5.jpeg">
       </td>
       <td width="25%" align="center">
-        <span>CSS</span><br><br><br>
+        <span><b>CSS<b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
+        <span><b>JavaScript<b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Bash</span><br><br><br>
-        <img height="64px" src="">
+        <span><b>Bash<b></span><br><br><br>
+        <img height="64px" src="https://github.com/jurdunnn/jurdunnn/blob/main/bash.png">
       </td>
     </tr>
   </tbody>
