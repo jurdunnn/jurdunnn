@@ -7,8 +7,8 @@
 
 ![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jurdunnn&show_icons=true&line_height=30)
 
-- 🔭 I’m currently working on - **Pokemon database app**
-- 🌱 I’m currently learning - **all things linux**
+- 🔭 I’m currently working on - **LinuxGames**
+- 🌱 I’m currently learning - **Dart and Flutter**
 - 👯 I’m looking to collaborate on - **android projects**
 
 **💻 IDE's of choice**
